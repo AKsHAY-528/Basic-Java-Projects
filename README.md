@@ -5,3 +5,4 @@ A collection of simple, beginner-friendly Java projects to help you get started 
 
 Project List
 1.Digital Clock
+2.Snake Game 
